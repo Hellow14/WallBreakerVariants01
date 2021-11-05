@@ -1,0 +1,78 @@
+body{
+	font-family: sans-serif;
+}
+.Body{
+    background-color: #ffcc66;
+    padding-bottom: 50px;
+   border: 2.5px solid black;
+}
+.Whythiswebsite{
+	padding-top: 20px; 
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.variants{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.button1{
+	background-color:  white;
+	border: 2px solid  #4d4d4d;
+	margin-right: 100px;
+	margin-left: 100px;
+	transition-duration: 0.1;
+}
+.button1:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+.button2{
+	background-color:  white;
+	border: 2px solid  #4d4d4d;
+	margin-right: 100px;
+	margin-left: 100px;
+	transition-duration: 0.1s;
+}
+.button2:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+.button3{
+	background-color:  white;
+	border: 2px solid  #4d4d4d;
+	margin-right: 100px;
+	margin-left: 100px;
+	transition-duration: 0.1s;
+}
+.button3:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+.button4{
+	background-color:  white;
+	border: 2px solid  #4d4d4d;
+	margin-right: 100px;
+	margin-left: 100px;
+	transition-duration: 0.1s;
+}
+.button4:hover{
+	color: white;
+	background-color: #262626;
+	border: 2px solid white;
+}
+
+a:visited{
+	color: seagreen;
+}
+a:hover{
+	color: red;
+}
+footer{
+	padding-top: 30px;
+	font-size: 10px;
+}
